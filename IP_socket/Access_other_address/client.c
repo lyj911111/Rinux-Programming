@@ -3,7 +3,7 @@
 #include <sys/socket.h>
 
 #define PORT 9000 
-#define IPADDR "192.168.22.199"		// Write the address that you want to access
+#define IPADDR "192.168.22.199"		// Write the address that you want to access (상대 주소 입력)
 
 main()
 {

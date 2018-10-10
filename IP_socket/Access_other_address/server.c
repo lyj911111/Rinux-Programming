@@ -4,7 +4,7 @@
 
 #define PORT 9000
 
-char buffer[BUFSIZ] = "Hello world";
+char buffer[BUFSIZ] = "Hello world";	// Client가 print를 치면, 여기에 있는 글자가 날라감
 
 main()
 {
